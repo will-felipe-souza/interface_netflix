@@ -99,6 +99,14 @@ header nav a:hover {
 }
 
 /* Carrosel */
+section.carrosseis {
+  margin-top: 30px;
+}
+
+section.carrosseis h4 {
+  font-weight: 900;
+  margin-top: 10px;
+}
 
 .carrosel{
   margin-top: 10px;
